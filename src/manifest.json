@@ -1,0 +1,9 @@
+{
+  "name": "Hello History",
+  "version": "1.0",
+  "description": "",
+  "permissions": ["history", "tabs"],
+  "chrome_url_overrides" : {
+    "history": "hello-history.html"
+  }
+}
