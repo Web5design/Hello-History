@@ -1,0 +1,1 @@
+Hello History is a browsing history extension for Google Chrome.
